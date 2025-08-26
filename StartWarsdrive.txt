@@ -1,0 +1,1502 @@
+Listing for e::
+Mode: Folders only
+Show sizes: no
+
+[DIR] # Star Wars Covers
+    [DIR] Covers
+        [DIR] #16MM
+        [DIR] #35MM
+        [DIR] #EP1_TPM
+        [DIR] #EP2_AOTC
+        [DIR] #EP3_ROTS
+        [DIR] #EP4_MISC
+            [DIR] thumbs
+        [DIR] #EP5_MISC
+        [DIR] #EP6_MISC
+        [DIR] #EP7_TFA
+        [DIR] #EP8_TLJ
+        [DIR] 1997 SPECIAL EDITIONS
+        [DIR] 4K77
+        [DIR] Betamax
+        [DIR] DIY COVER DESIGN SET
+            [DIR] StarWars_Phildesfr_BD_set_Design_your_own
+                [DIR] StarWars_Phildesfr_BD_set_Design_your_own
+                    [DIR] artwork
+                    [DIR] fonts
+                    [DIR] logos
+            [DIR] StarWars_Phildesfr_BD_set_PDF_(printable)
+                [DIR] StarWars_Phildesfr_BD_set_PDF_(printable)
+        [DIR] Disc Labels
+        [DIR] Documetaries Covers
+        [DIR] Droids
+        [DIR] Ewok VHS
+        [DIR] Fan Films
+        [DIR] Full Set
+        [DIR] HARMY DESPECIALISED
+            [DIR] DEED v1.0 covers
+                [DIR] FINAL
+        [DIR] HOLIDAY SPECIAL
+        [DIR] OT_MISC
+        [DIR] ROGUE ONE
+        [DIR] SILVER SCREEN EDITIONS
+        [DIR] SOLO
+        [DIR] Star Wars Disc Art
+        [DIR] Star Wars Trilogy - DVD Covers & Disc Labels
+        [DIR] Swon Video Saves
+        [DIR] V2000
+        [DIR] V2000 Video 2000
+        [DIR] VHS Covers
+            [DIR] Sequel VHS Releases (TLJ RO TFA
+        [DIR] eBay Stock Images
+    [DIR] German Star Wars DVD Covers
+    [DIR] New folder
+    [DIR] Poster Art
+    [DIR] SW leaflet with doco info
+    [DIR] Stills
+    [DIR] Website Rips
+        [DIR] Swon
+            [DIR] hts-cache
+            [DIR] www.swonvideo.com
+                [DIR] 8mm
+                    [DIR] imageslarge
+                    [DIR] imagessmall
+                [DIR] beta
+                    [DIR] imageslarge
+                    [DIR] imagessmall
+                [DIR] dvd
+                    [DIR] imageslarge
+                    [DIR] imagessmall
+                [DIR] extra
+                [DIR] files
+                    [DIR] imageslarge
+                [DIR] laserdisc
+                    [DIR] imageslarge
+                    [DIR] imagessmall
+                [DIR] logos
+                [DIR] other
+                    [DIR] imageslarge
+                    [DIR] imagessmall
+                [DIR] vcd
+                    [DIR] imageslarge
+                    [DIR] imagessmall
+                [DIR] vhs
+                    [DIR] imageslarge
+                    [DIR] imagessmall
+        [DIR] original trilogy
+            [DIR] ##PHOTOS
+                [DIR] gif
+                [DIR] png
+    [DIR] fonts
+        [DIR] Futura
+            [DIR] Futura
+        [DIR] ITC Serif Gothic
+            [DIR] ITC Serif Gothic
+        [DIR] Neue Helvetica
+            [DIR] Neue Helvetica
+    [DIR] logos
+        [DIR] Star Wars Logos
+[DIR] ## To Sort
+    [DIR] 5c6d1b97f15fbfaae36f7d36
+    [DIR] 5c6d1ba5f15fbfaae36f7e4d
+    [DIR] 60 Minutes - The Last Star Wars - The Myspleen SVCD
+    [DIR] BH PT
+        [DIR] BDMV
+            [DIR] BACKUP
+                [DIR] BDJO
+                [DIR] CLIPINF
+                [DIR] JAR
+                [DIR] PLAYLIST
+            [DIR] BDJO
+            [DIR] CLIPINF
+            [DIR] JAR
+            [DIR] PLAYLIST
+            [DIR] STREAM
+        [DIR] CERTIFICATE
+            [DIR] BACKUP
+    [DIR] EditDroid_ Rise and Fall  SD HQ
+    [DIR] Editdroid Content
+        [DIR] EditDroid ESB DVD_ROM Content
+            [DIR] CONTENT
+                [DIR] art
+                    [DIR] images
+                    [DIR] thumbs
+                [DIR] scripts
+        [DIR] ROTJ_content
+            [DIR] CONTENT
+                [DIR] Art
+                [DIR] Sfx
+            [DIR] JACKET_P
+    [DIR] Empire of Dreams BD50
+    [DIR] FSWTJ-PAL-LD
+        [DIR] FSWTJ-PAL-LD
+    [DIR] Falling into Darkness - The Making of Episode III [Bobson Dugnutt]
+    [DIR] Full 30 Mins Return of the Jedi EditDroid Laserdisc _OFFICIAL_
+    [DIR] Holiday Special - Oswarez - BD25
+    [DIR] Kenner Star Wars Commercials
+        [DIR] DVD_ROM
+        [DIR] VIDEO_TS
+    [DIR] MIAMI_BE_PAL_NOV_2008
+    [DIR] Mysterious Mysteries - SW pre-anh
+        [DIR] CONTENT
+            [DIR] art
+                [DIR] images
+                [DIR] thumbs
+            [DIR] scripts
+        [DIR] VIDEO_TS
+    [DIR] Project Ewok - BfE - 1080p v1.2 MKV – Google Drive
+    [DIR] ROTJ
+    [DIR] RTJ_JD_NTSC
+    [DIR] Return of the Jedi 1997 Special Edition HD Reconstruction
+    [DIR] STARWARS_EP4_NAVAJO – Google Drive
+    [DIR] STAR_WARS_1977
+    [DIR] STAR_WARS_FEATURES_1
+    [DIR] STAR_WARS_FEATURES_2
+    [DIR] STAR_WARS_FEATURES_3
+    [DIR] STAR_WARS_FEATURES_4
+    [DIR] SW-GSD
+    [DIR] SWG Media
+        [DIR] Official Books
+        [DIR] Official Screenshots
+        [DIR] Official Wallpapers
+        [DIR] Press Kits - Lucasarts VIP
+            [DIR] An Empire Divided
+            [DIR] House Packup
+            [DIR] Jedi Event
+            [DIR] Jump to Lightspeed
+            [DIR] Rage of the Wookees
+            [DIR] Starter Kit
+            [DIR] TCG - Champions of the Force
+            [DIR] TCG - Squadrons Over Corellia
+            [DIR] The Complete Online Adventures
+            [DIR] Trials of Obi-Wan
+        [DIR] SWG Box Art
+        [DIR] SWG Lucasarts Concept Art
+        [DIR] SWG Newsletters
+        [DIR] SWG Pictures
+        [DIR] Videos and Interviews
+    [DIR] SWHS Bonus Disc 2.1
+    [DIR] SWHS WHIO Remaster V1
+        [DIR] VIDEO_TS
+    [DIR] SWRarities
+        [DIR] VIDEO_RM
+        [DIR] VIDEO_TS
+    [DIR] SWXVID01
+    [DIR] Sesame Street Star Wars Workprints
+        [DIR] VIDEO_TS
+    [DIR] Star Wars 1977 Pre Anh PS78 Version VHSRIP iNTERNAL x264
+    [DIR] Star Wars 1997 SE Trilogy - DarkJedi-Feta
+    [DIR] Star Wars Bootlegs Video
+    [DIR] Star Wars Canon
+        [DIR] An Unlikely Friendship _ Star Wars Galaxy of Adventures
+        [DIR] Art Attack - Short _ Star Wars Rebels
+        [DIR] BB-8 - A Hero Rolls Out _ Star Wars Galaxy of Adventures
+        [DIR] Battle of Hoth _ Star Wars Galaxy of Adventures
+        [DIR] Boba Fett - The Bounty Hunter _ Star Wars Galaxy of Adventures
+        [DIR] Bucket's Quest _ Star Wars Resistance _ Disney Channel
+        [DIR] Buggle's Day Out _ Star Wars Resistance _ Disney Channel
+        [DIR] Chewbacca - The Trusty Co-Pilot _ Star Wars Galaxy of Adventures
+        [DIR] Chewbacca - Wookiee Warrior  _ Star Wars Galaxy of Adventures
+        [DIR] Chewie and Ewoks - Hijacking a Walker _ Star Wars Galaxy of Adventures
+        [DIR] Chewie vs  Holochess – Let The Wookiee Win _ Star Wars Galaxy of Adventures
+        [DIR] Clash on Cloud City _ Star Wars Galaxy of Adventures
+        [DIR] Classic-Creatures-Return-of-The-Jedi
+        [DIR] Dart and Cover _ Star Wars Resistance _ Disney Channel
+        [DIR] Darth Vader - Might of the Empire _ Star Wars Galaxy of Adventures
+        [DIR] Darth Vader - Power of the Dark Side _ Star Wars Galaxy of Adventures
+        [DIR] Darth Vader vs  Hoth Rebels - Crushing the Rebellion _ Star Wars Galaxy of Adventures
+        [DIR] Darth Vader vs  the Rebel Fleet - Fearsome Fighter Pilot _ Star Wars Galaxy of Adventures
+        [DIR] Entanglement - Short _ Star Wars Rebels
+        [DIR] Ewoks vs  The Empire - Small but Mighty _ Star Wars Galaxy of Adventures
+        [DIR] G-LN _ Star Wars Resistance _ Disney Channel
+        [DIR] Han Solo - From Smuggler to General _ Star Wars Galaxy of Adventures
+        [DIR] Han Solo -Taking Flight for his Friends _ Star Wars Galaxy of Adventures
+        [DIR] Han Solo vs  the Space Slug - The Escape Artist _ Star Wars Galaxy of Adventures
+        [DIR] Han Solo – Galaxy’s Best Smuggler _ Star Wars Galaxy of Adventures
+        [DIR] Han and Chewie - A Lifelong Partnership _ Star Wars Galaxy of Adventures
+        [DIR] Into the Unknown _ Star Wars Resistance
+        [DIR] Jabba the Hutt - Galactic Gangster _ Star Wars Galaxy of Adventures
+        [DIR] Jedi vs  Sith - The Skywalker Saga _ Star Wars Galaxy of Adventures
+        [DIR] Journey to Dagobah _ Star Wars Galaxy of Adventures
+        [DIR] Kylo Ren and Darth Vader - A Legacy of Power _ Star Wars Galaxy of Adventures
+        [DIR] Kylo Ren vs  Resistance Rebels _ Star Wars Galaxy of Adventures
+        [DIR] Leia Organa - A Princess, A General, A Mentor _ Star Wars Galaxy of Adventures
+        [DIR] Leia and Han - The Han Rescue _ Star Wars Galaxy of Adventures
+        [DIR] Luke Skywalker - Lightsaber Training _ Star Wars Galaxy of Adventures
+        [DIR] Luke Skywalker - The Journey Begins _ Star Wars Galaxy of Adventures
+        [DIR] Luke Skywalker vs  Darth Vader – Join Me _ Star Wars Galaxy of Adventures
+        [DIR] Luke vs  Emperor Palpatine – Rise to Evil _ Star Wars Galaxy of Adventures
+        [DIR] Luke vs  Imperial Walkers - Commander on Hoth _ Star Wars Galaxy of Adventures
+        [DIR] Luke vs  Jabba - Sail Barge Escape _ Star Wars Galaxy of Adventures
+        [DIR] Luke vs  the Death Star – X-wing Assault _ Star Wars Galaxy of Adventures
+        [DIR] Luke vs  the Rancor - Wrath of the Rancor _ Star Wars Galaxy of Adventures
+        [DIR] Luke vs  the Wampa - Cavern Escape _ Star Wars Galaxy of Adventures
+        [DIR] Neeku's Reward _ Star Wars Resistance _ Disney Channel
+        [DIR] Princess Leia - An Unexpected Friend _ Star Wars Galaxy of Adventures
+        [DIR] Princess Leia - The Rescue _ Star Wars Galaxy of Adventures
+        [DIR] Princess Leia vs  Darth Vader - A Fearless Leader _ Star Wars Galaxy of Adventures
+        [DIR] Property of Ezra Bridger - Short _ Star Wars Rebels
+        [DIR] R2-D2 - A Loyal Droid _ Star Wars Galaxy of Adventures
+        [DIR] R2-D2 - A Pilot's Best Friend _ Star Wars Galaxy of Adventures
+        [DIR] R2-D2 and C3PO - Trash Compactor Rescue _ Star Wars Galaxy of Adventures
+        [DIR] Rendezvous at Bespin _ Star Wars Galaxy of Adventures
+        [DIR] Rey and Finn vs  Kylo Ren _ Star Wars Galaxy of Adventures
+        [DIR] Rey and Friends vs  The First Order _ Star Wars Galaxy of Adventures
+        [DIR] Sega Saturn Demo Tape - 1995 VHS (PT)
+        [DIR] Sixty Seconds to Destruction _ Star Wars Resistance _ Disney Channel
+        [DIR] Star Wars Droids _ Star Wars Galaxy of Adventures
+        [DIR] Star Wars Forces of Destiny _ A Disarming Lesson _ Disney
+        [DIR] Star Wars Forces of Destiny _ Accidental Allies _ Disney
+        [DIR] Star Wars Forces of Destiny _ An Imperial Feast _ Disney
+        [DIR] Star Wars Forces of Destiny _ Art History _ Disney
+        [DIR] Star Wars Forces of Destiny _ BB-8 Bandits _ Disney
+        [DIR] Star Wars Forces of Destiny _ Beasts of Echo Base _ Disney
+        [DIR] Star Wars Forces of Destiny _ Bounty Hunted _ Disney
+        [DIR] Star Wars Forces of Destiny _ Bounty of Trouble _ Disney
+        [DIR] Star Wars Forces of Destiny _ Chopper and Friends _ Disney
+        [DIR] Star Wars Forces of Destiny _ Crash Course _ Disney
+        [DIR] Star Wars Forces of Destiny _ Ewok Escape  _ Disney
+        [DIR] Star Wars Forces of Destiny _ Hasty Departure _ Disney
+        [DIR] Star Wars Forces of Destiny _ Jyn’s Trade _ Disney
+        [DIR] Star Wars Forces of Destiny _ Monster Misunderstanding _ Disney
+        [DIR] Star Wars Forces of Destiny _ Newest Recruit _ Disney
+        [DIR] Star Wars Forces of Destiny _ Perilous Pursuit _ Disney
+        [DIR] Star Wars Forces of Destiny _ Porg Problems _ Disney
+        [DIR] Star Wars Forces of Destiny _ Porgs!  _ Disney
+        [DIR] Star Wars Forces of Destiny _ Run Rey Run _ Disney
+        [DIR] Star Wars Forces of Destiny _ Sands of Jakku _ Star Wars _ Disney
+        [DIR] Star Wars Forces of Destiny _ Shuttle Shock _ Disney
+        [DIR] Star Wars Forces of Destiny _ Teach You, I Will _ Disney
+        [DIR] Star Wars Forces of Destiny _ The Happabore Hazard _ Disney
+        [DIR] Star Wars Forces of Destiny _ The Imposter Inside _ Disney
+        [DIR] Star Wars Forces of Destiny _ The Padawan Path _ Disney
+        [DIR] Star Wars Forces of Destiny _ The Path Ahead _ Disney
+        [DIR] Star Wars Forces of Destiny _ The Starfighter Stunt _ Disney
+        [DIR] Star Wars Forces of Destiny _ The Stranger  _ Disney
+        [DIR] Star Wars Forces of Destiny _ Tracker Trouble _ Disney
+        [DIR] Star Wars Forces of Destiny _ Traps and Tribulations _ Disney
+        [DIR] Star Wars Forces of Destiny _ Triplecross _ Disney
+        [DIR] Star Wars Forces of Destiny _ Unexpected Company _ Disney
+        [DIR] Stormtroopers vs  Rebels - Soldiers of the Galactic Empire _ Star Wars Galaxy of Adventures
+        [DIR] The Clone Wars Reels_ Cad Bane and Boba Fett
+        [DIR] The First Order vs  The Resistance _ Star Wars Galaxy of Adventures
+        [DIR] The Force Calls to Rey _ Star Wars Galaxy of Adventures
+        [DIR] The Need For Speed _ Star Wars Resistance _ Disney Channel
+        [DIR] The Rematch _ Star Wars Resistance _ Disney Channel
+        [DIR] The Search for Kaz _ Star Wars Resistance _ Disney Channel
+        [DIR] Treasure Chest _ Star Wars Resistance _ Disney Channel
+        [DIR] Unmotivated _ Star Wars Resistance _ Disney Channel
+        [DIR] When Thieves Drop By _ Star Wars Resistance _ Disney Channel
+        [DIR] Yoda - The Jedi Master _ Star Wars Galaxy of Adventures
+        [DIR] Yoda vs  Count Dooku - Size Matters Not _ Star Wars Galaxy of Adventures
+    [DIR] Star Wars Deleted Magic Revisited
+        [DIR] DVD_ROM
+            [DIR] COVERS
+                [DIR] DELETED_MAGIC_ORIGINAL_COVERS
+                    [DIR] Discs
+                [DIR] DELETED_MAGIC_REVISITED
+        [DIR] JACKET_P
+        [DIR] VIDEO_TS
+    [DIR] Star Wars Empie Strikes Back LIVE WITH ORCHESTRA Glasgow Armadillo 2019
+    [DIR] Star Wars Holiday Special, The (1978) [Nice Copy]
+    [DIR] Star Wars ONTV Version TVRIP
+    [DIR] Star Wars Rarities Vol 3 of 3
+        [DIR] Data
+        [DIR] VIDEO_TS
+    [DIR] Star Wars Site
+        [DIR] Info Sheets
+            [DIR] 8mm
+            [DIR] BetaMax
+            [DIR] V2000
+            [DIR] VCD
+            [DIR] VHS
+        [DIR] New folder
+        [DIR] Project Files
+        [DIR] Scan
+        [DIR] Site Submissions
+        [DIR] StarWarsSite
+    [DIR] Star Wars Sorted Folders
+        [DIR] 01 - A New Hope
+        [DIR] 02 - The Empire Strikes Back
+        [DIR] 03 - Return of the Jedi
+        [DIR] 04 - The Phantom Menace
+        [DIR] 05 - Attack of the Clones
+        [DIR] 06 - Revenge of the Sith
+        [DIR] 07 - The Force Awakens
+        [DIR] 08 - Rogue One
+        [DIR] 09 - The Last Jedi
+        [DIR] 10 - Solo
+        [DIR] 11 - Rise of Skywalker
+        [DIR] aa - The Clone Wars
+    [DIR] Star Wars Trilogy Japanese Special Collection 1985 480p
+    [DIR] StarWars
+    [DIR] TESB
+    [DIR] The Beginning - Making Episode I (2001)
+    [DIR] The Star Wars Holiday Special (Betamax 60fps) (HD)
+    [DIR] The Star Wars Script Collection
+    [DIR] VIDEO_TS
+    [DIR] _UNPACK_StarWarsTheaterRecordingScofield
+    [DIR] Звездные войны(Star Wars)  1990 Soviet Dub
+[DIR] $RECYCLE.BIN
+    [DIR] S-1-5-21-1627454421-3307063568-1637735345-1001
+        [Permission Denied]: e:$RECYCLE.BIN\S-1-5-21-1627454421-3307063568-1637735345-1001
+    [DIR] S-1-5-21-1927316892-1177031924-1763275416-1001
+        [Permission Denied]: e:$RECYCLE.BIN\S-1-5-21-1927316892-1177031924-1763275416-1001
+    [DIR] S-1-5-21-197712039-2325809338-2853015204-1001
+        [Permission Denied]: e:$RECYCLE.BIN\S-1-5-21-197712039-2325809338-2853015204-1001
+    [DIR] S-1-5-21-2142353984-2800921097-723931681-1001
+        [Permission Denied]: e:$RECYCLE.BIN\S-1-5-21-2142353984-2800921097-723931681-1001
+    [DIR] S-1-5-21-2315816850-1300696820-1178687189-1001
+    [DIR] S-1-5-21-2948700470-459180505-2235833030-1001
+        [Permission Denied]: e:$RECYCLE.BIN\S-1-5-21-2948700470-459180505-2235833030-1001
+    [DIR] S-1-5-21-3307361660-295207053-1352509440-1001
+        [Permission Denied]: e:$RECYCLE.BIN\S-1-5-21-3307361660-295207053-1352509440-1001
+    [DIR] S-1-5-21-3481350837-3395177164-362246584-1001
+        [Permission Denied]: e:$RECYCLE.BIN\S-1-5-21-3481350837-3395177164-362246584-1001
+    [DIR] S-1-5-21-3973145336-2085323779-3293517889-1001
+        [Permission Denied]: e:$RECYCLE.BIN\S-1-5-21-3973145336-2085323779-3293517889-1001
+    [DIR] S-1-5-21-529892871-189577312-483820397-1001
+        [Permission Denied]: e:$RECYCLE.BIN\S-1-5-21-529892871-189577312-483820397-1001
+    [DIR] S-1-5-21-797425017-851177542-2938656112-1001
+        [Permission Denied]: e:$RECYCLE.BIN\S-1-5-21-797425017-851177542-2938656112-1001
+    [DIR] S-1-5-21-891332093-2180523646-962651385-1001
+        [Permission Denied]: e:$RECYCLE.BIN\S-1-5-21-891332093-2180523646-962651385-1001
+[DIR] Fan Edits
+    [DIR] Jamie Benning - Star Wars Begins - Building Empire - Returning to Jedi Documentaries
+        [DIR] JBF-ReturningtoJedi
+        [DIR] JBF-StarWarsBegins
+    [DIR] Star Wars Revisited (Star Wars & Empire Strikes Back)
+        [DIR] Empire Strikes Back Revisited (MKV)
+        [DIR] Star Wars Revisited (DVD9)
+    [DIR] Star_Wars_Episodes_I-VI_Extended_720p_FASM_X264
+    [DIR] TMOESB-PARBOT
+        [DIR] Making of the Empire Strikes Back - Michel Parbot Doc
+[DIR] Official Releases
+    [DIR] #Trailers
+    [DIR] 16MM
+        [DIR] 16mm1_ANH
+            [DIR] PUGGOGRANDE
+                [DIR] Puggo GRANDE - 16mm Restoration - NTSC DVD
+        [DIR] 16mm2_ESB
+            [DIR] PSB
+                [DIR] PSB
+                    [DIR] AUDIO_TS
+                    [DIR] VIDEO_TS
+    [DIR] 3D Titles
+        [DIR] Rogue One A Star Wars Story 2016 3D HSBS MULTISUBS 1080p BluRay X264 HQ-TUSAHD
+        [DIR] Star Wars Prequel Trilogy 3D 1080p
+        [DIR] Star Wars The Last Jedi 2017 HSBS 3D 1080p Bluray DD5 1 NLSubs QoQ
+    [DIR] 8MM
+        [DIR] Star Wars Selected scenes Super8 reel Black & white Ken films USA 1977
+            [DIR] Covers
+        [DIR] The Empire Strikes Back Selected scenes Super8 Both Reels Color-sound Ken films USA 1980
+            [DIR] Covers
+        [DIR] The Puggo Edition - Star Wars & Empire Strikes Back Super 8 Film Transfers
+            [DIR] Puggo8mm
+                [DIR] The Puggo Edition - SW & TESB Super 8 Film Transfers - NTSC
+                    [DIR] VIDEO_TS
+    [DIR] CED
+        [DIR] Empire Strikes Back CED preservation v1.0
+            [DIR] esb-ced_bonus
+        [DIR] Return of the Jedi CED preservation v1.1
+            [DIR] jed-ced_bonus
+        [DIR] Star Wars CED preservation v1.0
+            [DIR] sw-ced_bonus
+    [DIR] DVD
+        [DIR] Rebels (Season 1-4)
+            [DIR] S01
+            [DIR] S02
+            [DIR] S03
+            [DIR] S04
+        [DIR] Star Wars Clone Wars [2003]
+            [DIR] Star Wars Clone Wars [2003]
+                [DIR] Extras
+                [DIR] Season 1-3
+    [DIR] Laserdisc
+        [DIR] ESB-142539-720p
+            [DIR] ESB-142539-720p
+        [DIR] Return of the Jedi, Laserdisc, 20th Century Fox Home Ent. France 1995
+        [DIR] Return of the Jedi, Laserdisc, CBSFOX Video Japan, 1986
+        [DIR] Return of the Jedi, Laserdisc, CBSFox video, 1986 [1478-80]
+        [DIR] Return of the Jedi, Widescreen, Laserdisc, CBSFox video, 1989
+        [DIR] Return of the Jedi, Widescreen, Laserdisc, CBSFox video, 1995
+            [DIR] Dvd-rom
+            [DIR] VIDEO_TS
+        [DIR] SW-SF148-1196-720P
+        [DIR] Star Wars Episode I The Phantom Menace, Laserdisc, 20th Century-Fox Video. Japan, 2000
+            [DIR] HF9G-TPM-LD
+        [DIR] Star Wars Trilogy - The Definitive Collection Laserdisc (CAV) Fox Video 1993
+            [DIR] Return of the Jedi Laserdisc (CAV)  Fox Video USA  1993
+            [DIR] Star Wars  Laserdisc (CAV) Fox Video USA 1993
+            [DIR] The Empire Strikes Back Laserdisc (CAV) Fox Video USA 1993
+        [DIR] Star Wars Trilogy Special Edition Laserdisc 20th Century Fox Hom Ent. USA 1997
+        [DIR] Star Wars Trilogy, Laserdisc, 20th Century Fox Home Ent. France, 1995
+            [DIR] Return of the Jedi, Laserdisc, 20th Century Fox Home Ent. France 1995
+            [DIR] Star Wars, Laserdisc, 20th Century Fox Home Ent. France 1995
+                [DIR] swanh
+            [DIR] The Empire Strikes Back, Laserdisc, 20th Century Fox Home Ent. France 1995
+                [DIR] swtesb
+            [DIR] images
+        [DIR] Star Wars, Laserdisc, 20th Century Fox Home Ent. France 1995
+            [DIR] sw-113039-720p
+        [DIR] Star Wars, Laserdisc, 20th Century Fox Home Ent. Japan 1995
+            [DIR] SWJSC-HF9G-SW
+        [DIR] Star Wars, Laserdisc, 20th Century-Fox video UK, 1982
+        [DIR] Star Wars, Laserdisc, 20th Century-Fox video, 1982
+            [DIR] SW-1130-80-720P
+        [DIR] Star Wars, Laserdisc, CBSFox video, 1983
+            [DIR] Dvd-rom
+            [DIR] VIDEO_TS
+        [DIR] Star Wars, Widescreen, Laserdisc, CBSFox video, 1995
+            [DIR] Dvd-rom
+            [DIR] VIDEO_TS
+        [DIR] The Empire Strikes Back, Laserdisc (CAV), CBSFox video, 1985
+            [DIR] Dvd-rom
+            [DIR] VIDEO_TS
+        [DIR] The Empire Strikes Back, Laserdisc, 20th Century Fox Home Ent. Japan 1995
+            [DIR] SWJSC-HF9G-ESB
+        [DIR] The Empire Strikes Back, Laserdisc, CBSFox video UK, 1985
+        [DIR] The Empire Strikes Back, Laserdisc, CBSFox video, 1984
+            [DIR] ESB-1985-1425-84-720p
+                [DIR] ESB-1985-1425-84-720p
+            [DIR] VIDEO_TS
+        [DIR] The Empire Strikes Back, Widescreen, Laserdisc, CBSFox video, 1989
+            [DIR] esb-1425-85-720P
+        [DIR] The Empire Strikes Back, Widescreen, Laserdisc, CBSFox video, 1995
+            [DIR] Dvd-rom
+            [DIR] VIDEO_TS
+        [DIR] The Empires Strikes Back, Laserdisc, CBSFox video USA, 1992
+        [DIR] The Empires Strikes Back, Laserdisc, CBSFox video, 1992
+        [DIR] sw-1130-84-720p
+        [DIR] sw-1130-85-720p
+    [DIR] VCD
+        [DIR] Star Wars Episode I, VCD, 20th Century Fox Video Hong Kong, 2000
+        [DIR] Star Wars Episode I, VCD, 20th Century Fox VideoVideoVan Malaysia, 2000
+            [DIR] Parts
+        [DIR] Star Wars Trilogy Special edition, VCD, 20th Century Fox VideoVideoVan SingaporeMalaysia, 2000
+    [DIR] VHS
+        [DIR] Caravan of Courage - An Ewok Adventure VHS Fullscreen CBSFox video UK 1985
+        [DIR] Caravan of Courage, VHS, Fullscreen, CBSFox video UK, 1985 RENTAL
+        [DIR] Classic Creatures Return of the Jedi, VHS, CBSFox Video UK, 1990
+            [DIR] Movie
+        [DIR] Droids
+            [DIR] DROIDS
+            [DIR] Droids - Dairylea give-away VHS CBSFox Video UK 1985
+            [DIR] SWDROIDS
+            [DIR] SWDROIDS01
+            [DIR] SWDROIDS02
+            [DIR] The Great Heep
+        [DIR] Ewoks
+            [DIR] Ewoks 1
+            [DIR] Ewoks 2
+            [DIR] Ewoks 3
+            [DIR] Ewoks 4
+            [DIR] Ewoks 5
+            [DIR] Ewoks 6
+            [DIR] Ewoks VHS Dairylea give-away CBS-FOX Video UK 1985
+        [DIR] Ewoks - Battle for Endor, VHS, MGMUA Video UK, 1988
+        [DIR] Ewoks - Battle for Endor, VHS, MGMUA Video UK, 1990
+        [DIR] Ewoks - Battle for Endor, VHS, MGMUA Video UK, 1993
+        [DIR] From Star Wars To Jedi - The Making Of A Saga
+        [DIR] Return of the Ewok (Video 1982)
+        [DIR] Return of the Jedi Japanese VHS (1993)
+        [DIR] Return of the Jedi, Fullscreen, VHS, CBSFox Video UK, 1988
+        [DIR] Return of the Jedi, VHS, Fox Video UK, 1994
+        [DIR] Return of the Jedi, VHS, Rental tape, CBSFox video UK, 1986
+        [DIR] Return of the Jedi, VHS, Sell-through tape, CBSFox video GMBH, Germany 1990
+        [DIR] Return of the Jedi, Widescreen, VHS, Fox Video UK, 1994
+        [DIR] SPFX The Empire Strikes Back VHS CBSFOX Video UK 1984
+        [DIR] SPFX The Empire Strikes Back VHS CBSFOX Video UK 1984 RENTAL
+        [DIR] Star War Trilogys, VHS, Fullscreen, 20th Century-Fox Home Ent, USA 1995
+            [DIR] DJ_Faces_FS_Ep4
+                [DIR] DJ_Faces_FS_Ep4
+                    [DIR] Dvd-rom
+                    [DIR] VIDEO_TS
+            [DIR] DJ_Faces_FS_Ep5
+                [DIR] Dvd-rom
+                [DIR] VIDEO_TS
+            [DIR] DJ_Faces_FS_Ep6
+                [DIR] Dvd-rom
+                [DIR] VIDEO_TS
+        [DIR] Star Wars - THX Collectors Edition 4 VHS Tapes
+            [DIR] Art
+        [DIR] Star Wars 1995 Trilogy [Pan&Scan]-VHSRIP
+        [DIR] Star Wars Episode I, VHS, 20th Century Fox Video UK , 2000
+        [DIR] Star Wars Episode I, VHS, Widescreen Collector's edition, 20th Century Fox Video USA, 2000
+        [DIR] Star Wars Trilogy Special Widescreen edition, VHS, 20th Century Fox Video  CBSFox Video, UK 1992
+            [DIR] Return of the Jedi Special Widescreen edition VHS, Fox Video  CBSFox Video, UK 1992
+            [DIR] Star Wars Special Widescreen edition, VHS, Fox Video, UK 1992
+            [DIR] The Empire Strikes Back Special Widescreen edition VHS, Fox Video  CBSFox Video, UK 1992
+        [DIR] Star Wars Trilogy Special edition, VHS, 20th Century Fox Video UK, 1997
+            [DIR] Return of the Jedi Special edition, VHS, 20th Century Fox Video UK, 1997
+            [DIR] Star Wars Special edition, VHS, 20th Century Fox Video UK, 1997
+            [DIR] The Empire Strikes Back Special edition, VHS, 20th Century Fox Video UK, 1997
+        [DIR] Star Wars Trilogy Special edition, Widescreen, VHS, 20th Century Fox Video UK, 2000
+            [DIR] Return of the Jedi Special edition, VHS, 20th Century Fox Video UK, 2000
+            [DIR] Star Wars Special edition, VHS, 20th Century Fox Video UK, 2000
+            [DIR] The Empire Strikes Back Special edition, VHS, 20th Century Fox Video UK, 2000
+        [DIR] Star Wars, Fullscreen, VHS, CBSFox Video UK, 1988
+        [DIR] Star Wars, VHS, CBSFox Video UK, 1987
+        [DIR] Star Wars, VHS, CBSFox Video UK, 1989
+        [DIR] Star Wars, VHS, Fox Video UK, 1994
+        [DIR] Star Wars, VHS, Fullscreen, 20th Century-Fox video, USA 1982
+        [DIR] Star Wars, VHS, Sell-through tape, CBSFox video GMBH, Germany 1990
+        [DIR] Star Wars, Widescreen, VHS, Fox Video UK, 1994
+        [DIR] Star.Wars.Episode.II.Attack.Of.The.Clones.Pan&Scan-VHS
+        [DIR] The Empire Strikes Back, Fullscreen, VHS, CBSFox Video UK, 1984
+        [DIR] The Empire Strikes Back, Fullscreen, VHS, CBSFox Video UK, 1988
+        [DIR] The Empire Strikes Back, VHS, Fox Video UK, 1994
+        [DIR] The Empire Strikes Back, VHS, Sell-through tape, CBSFox video GMBH, Germany 1990
+        [DIR] The Empire Strikes Back, Widescreen, VHS, Fox Video UK, 1994
+        [DIR] The Making Of Star Wars FOX (1990)
+        [DIR] The Making of Star Wars VHS Magnetic Video USA 1979
+        [DIR] The Making of Star Wars, VHS, Magnetic Video UK 1979
+        [DIR] The Star Wars Holiday Special VHS CBS TV Nov17 1978
+[DIR] Preservations
+    [DIR] Builds
+        [DIR] Forgotten_Scenes
+            [DIR] Forgotten_Scenes
+                [DIR] Forgotten_Scenes
+                    [DIR] AUDIO_TS
+                    [DIR] VIDEO_TS
+        [DIR] RotJ-LocationEffects
+        [DIR] SPECIAL EDITIO HYPE TV CAPTURES
+            [DIR] OCPDVD3-SE_HYPE
+                [DIR] SE_HYPE
+                    [DIR] AUDIO_TS
+                    [DIR] VIDEO_TS
+        [DIR] SW-Cushing-Tarking-Outtakes
+        [DIR] SW-TCRF-2018
+            [DIR] sw-tcrf (2018)
+                [DIR] SW-crf DVD Booklet
+        [DIR] SWRARITIES1
+        [DIR] SWRARITIES2
+        [DIR] Star Wars Holiday Special BONUS
+        [DIR] Star Wars Making Magic - Lucas Art Rip
+            [DIR] SWMMFF
+                [DIR] FanFiltration
+                    [DIR] SWMM
+                        [DIR] AUDIO_TS
+                        [DIR] DVD-Rom
+                        [DIR] VIDEO_TS
+        [DIR] Star Wars The 1975 Casting Auditions
+            [DIR] SW1975CastingAuditions-Angrysun
+                [DIR] The 1975 Casting - Unauthorized VERSION White
+                    [DIR] AUDIO_TS
+                    [DIR] DVD-Rom
+                        [DIR] Lord Rikter Blaksvn - Jedi Beat Machine
+                    [DIR] VIDEO_TS
+        [DIR] esbcomp1080p
+        [DIR] rotjcomp1080p
+        [DIR] story of sta wars
+            [DIR] TSoSWbMA
+                [DIR] TSoSWbMA
+        [DIR] swcomp1080p
+    [DIR] Captures
+        [DIR] Laserdisc
+            [DIR] ANH Mono
+            [DIR] ANH-97-FLUNK_DUAL LAYER
+                [DIR] SWSE97_ANH_DLayer_Flunk
+                    [DIR] SWarsIV_SE_DLayer_Flunk
+            [DIR] EDITDROID - Star Wars Episode 5 The Empire Strikes Back
+            [DIR] EDITDROID - Star Wars Episode 6 Return of the Jedi
+            [DIR] EDIT_DROID_LD_FEATURES
+                [DIR] EditDroid0
+                [DIR] EditDroid1
+                    [DIR] EDITDROID_FEATURES_1
+                        [DIR] STAR_WARS_FEATURES_1
+                            [DIR] AUDIO_TS
+                            [DIR] JACKET_P
+                            [DIR] VIDEO_TS
+                [DIR] EditDroid2
+                    [DIR] EDITDROID_FEATURES_2
+                        [DIR] STAR_WARS_FEATURES_2
+                            [DIR] AUDIO_TS
+                            [DIR] JACKET_P
+                            [DIR] VIDEO_TS
+                [DIR] EditDroid3
+                    [DIR] STAR_WARS_FEATURES_3
+                        [DIR] AUDIO_TS
+                        [DIR] JACKET_P
+                        [DIR] VIDEO_TS
+                [DIR] EditDroid4
+                    [DIR] EDITDROID_FEATURES_4
+                        [DIR] STAR_WARS_FEATURES_4
+                            [DIR] AUDIO_TS
+                            [DIR] JACKET_P
+                            [DIR] SWvinyl
+                                [DIR] Media
+                                [DIR] Xtras
+                            [DIR] VIDEO_TS
+            [DIR] EDROTJ.1
+            [DIR] Edit Droid
+                [DIR] DVD
+                    [DIR] AUDIO_TS
+                    [DIR] VIDEO_TS
+            [DIR] ISOLATED SCORE TRILOGY DVD LD TRANSFER
+                [DIR] ISOMIX-Empire
+                [DIR] ISOMIX-Jedi
+                [DIR] ISOMIX-StarWars
+            [DIR] Jedi-Feta 97 SE Trilogy
+                [DIR] JFSE4
+                    [DIR] JFSE4
+                        [DIR] AUDIO_TS
+                        [DIR] DVD-Rom
+                        [DIR] VIDEO_TS
+                [DIR] JFSE5
+                    [DIR] JFSE5
+                        [DIR] AUDIO_TS
+                        [DIR] Dvd-Rom
+                        [DIR] VIDEO_TS
+                [DIR] JFSE6
+                    [DIR] JFSE6
+                        [DIR] AUDIO_TS
+                        [DIR] Dvd-Rom
+                        [DIR] VIDEO_TS
+                [DIR] Jedi_Feta - SE Bonus Disc
+                    [DIR] Jedi-Feta Bonus SE 97
+                        [DIR] AUDIO_TS
+                        [DIR] Dvd-Rom
+                        [DIR] VIDEO_TS
+            [DIR] Laser Disc Audio Archive
+                [DIR] Audio Archive
+                    [DIR] A New Hope
+                        [DIR] 1977 Dolby Stereo
+                            [DIR] P&S-Analog Audio - CAV - US (1130-84)
+                            [DIR] P&S-Analog Audio - CLV - Japan (FY570-35MA)
+                            [DIR] P&S-Digital Audio - CLV - Japan (SF098-1103)
+                            [DIR] P&S-Digital Audio - CLV - US - Time Compressed (5651-80)
+                        [DIR] 1985 Home Video Mix
+                            [DIR] Special Collection - CAV - Japan (SF148-1196)
+                            [DIR] Special Widescreen Edition - CLV - US (1130-85 - Technidisc)
+                        [DIR] 1993 Commentary Track
+                            [DIR] Definitive Collection - CAV - US (0693-84-01)
+                        [DIR] 1993 Stereo Remix
+                            [DIR] Definitive Collection - CAV - Japan (PILF-175701)
+                            [DIR] Faces - CLV - US (8763-85)
+                        [DIR] 1997 Special Edition
+                            [DIR] Japan - CLV (PILF-2468)
+                                [DIR] 5.1 Mix
+                                [DIR] Stereo Mix
+                            [DIR] US - CLV (410298501)
+                                [DIR] 5.1 Mix
+                                [DIR] Stereo Mix
+                        [DIR] Adobe Audition Files
+                            [DIR] Patches
+                        [DIR] Final Mixes (NTSC GOUT Synced)
+                    [DIR] Others
+                        [DIR] 1977 - The Making of Star Wars - CLV - Japan (PILF-2079)
+                        [DIR] 1980 - SPFX - The Empire Strikes Back - CLV - Japan (PILF-2080)
+                        [DIR] 1983 - Classic Creatures - Return of the Jedi - Japan (PILF-2081)
+                        [DIR] 1983 - From Star Wars To Jedi - CLV - Japan (PILF-207004)
+                        [DIR] 2000 - AOTC Preview - CLV - Japan (PILF-286001) - (From ANH SE)
+                        [DIR] Adobe Audition Files
+                        [DIR] Finished Mixes (Synchronized to 2011 Blu Rays)
+                            [DIR] Documentaries
+                            [DIR] SE Trailers & Featurette
+                    [DIR] Return Of The Jedi
+                        [DIR] 1983 Dolby Stereo
+                            [DIR] P&S-Analog Audio - CLV - US (1478-80)
+                            [DIR] P&S-Digital Audio - CLV - Japan (SF098-0013)
+                            [DIR] P&S-Digital Audio - CLV - US - 1986 (1478-80)
+                            [DIR] P&S-Digital Audio - CLV - US - 1992 (1478-80)
+                        [DIR] 1985 Home Video Mix
+                            [DIR] Special Collection - CAV - Japan (SF148-1343)
+                            [DIR] Special Widescreen Edition - CLV - US (1478-85 - Technidisc)
+                        [DIR] 1993 Commentary Track (Gout Synced)
+                            [DIR] Definitive Collection - CAV - US (0693-84-03)
+                        [DIR] 1993 Stereo Remix
+                            [DIR] Definitive Collection - CAV - Japan (PILF-175703)
+                            [DIR] Faces - CLV - US (8765-85)
+                        [DIR] 1997 Special Edition
+                            [DIR] Japan - CLV (PILF-2470)
+                                [DIR] 5.1 Mix
+                                [DIR] Stereo Mix
+                            [DIR] US - CLV (410298503)
+                                [DIR] 5.1 Mix
+                                [DIR] Stereo Mix
+                        [DIR] Adobe Audition Files
+                            [DIR] Patches
+                        [DIR] Finished Mixes (NTSC GOUT Synced)
+                    [DIR] The Empire Strikes Back
+                        [DIR] 1980 Dolby Stereo
+                            [DIR] P&S-Analog Audio - CAV - US (1425-84)
+                            [DIR] P&S-Analog Audio - CLV - Japan (SF098-0013)
+                            [DIR] P&S-Digital Audio - CLV - Japan (SF098-1117)
+                            [DIR] P&S-Digital Audio - CLV - US - Time Compressed (5652-80)
+                        [DIR] 1985 Home Video Mix
+                            [DIR] Special Collection - CAV - Japan (SF148-1242)
+                            [DIR] Special Widescreen Edition - CLV - US (1425-85 - Technidisc)
+                        [DIR] 1993 Commentary Track
+                            [DIR] Definitive Collection - CAV - US (0693-84-02)
+                        [DIR] 1993 Stereo Remix
+                            [DIR] Definitive Collection - CAV - Japan (PILF-175702)
+                            [DIR] Faces - CLV - US (8764-85)
+                        [DIR] 1997 Special Edition
+                            [DIR] Japan - CLV (PILF-2469)
+                                [DIR] 5.1 Mix
+                                [DIR] Stereo Mix
+                            [DIR] US - CLV (410298502)
+                                [DIR] 5.1 Mix
+                                [DIR] Stereo Mix
+                        [DIR] Adobe Audition Files
+                            [DIR] Patches
+                        [DIR] Final Mixes (NTSC GOUT Synced)
+                    [DIR] The Phantom Menace
+                        [DIR] 1999 - Japan - CLV (PILF-2830)
+                            [DIR] 5.1 Mix
+                            [DIR] Stereo Mix
+                        [DIR] Adobe Audition Files
+                            [DIR] Patch
+                        [DIR] Finished Mixes
+            [DIR] LeeThorogoods.1997.SE.ReturnOfTheJedi.PAL.DVD9
+            [DIR] LeeThorogoods.1997.SE.StarWars.PAL.DVD9
+            [DIR] LeeThorogoods.1997.SE.TheEmpireStrikesBack.PAL.DVD9
+            [DIR] MAKING OF SW TRILOGY - LASERDISC DVD
+                [DIR] DGMT1
+                [DIR] DGMT2
+            [DIR] SETRULES
+                [DIR] 516543ee105083f299182cdd
+                    [DIR] SWANH_OUT_RULES_2
+                        [DIR] SWANH_OUT_RULES_2.0
+                            [DIR] BDMV
+                                [DIR] BACKUP
+                                    [DIR] CLIPINF
+                                    [DIR] PLAYLIST
+                                [DIR] CLIPINF
+                                [DIR] PLAYLIST
+                                [DIR] STREAM
+                [DIR] 516bd1df84e87a909200a4cf
+                    [DIR] SWANH_SET_RULES_1-BD
+                        [DIR] SWANH_SET_RULES_1.0_BD
+                            [DIR] BDMV
+                                [DIR] BACKUP
+                                    [DIR] CLIPINF
+                                    [DIR] PLAYLIST
+                                [DIR] CLIPINF
+                                [DIR] PLAYLIST
+                                [DIR] STREAM
+            [DIR] Star Wars Trilogy 1985 P&S
+            [DIR] Star Wars, Laserdisc, 20th Century-Fox video, 1982 DVD Version
+                [DIR] COVER ART
+                [DIR] VIDEO_TS
+            [DIR] Star Wars, Laserdisc, 20th Century-Fox video, 1982 DVD Version 2
+                [DIR] VIDEO_TS
+            [DIR] TR47
+                [DIR] Rowman Collection
+                    [DIR] Rowman Extras ANH
+                        [DIR] Rowman Extras ANH
+                            [DIR] Rowman Extras ANH
+                                [DIR] AUDIO_TS
+                                [DIR] VIDEO_TS
+                    [DIR] Rowman Extras ESB
+                        [DIR] Rowman Extras ESB
+                            [DIR] Rowman Extras ESB
+                                [DIR] AUDIO_TS
+                                [DIR] VIDEO_TS
+                    [DIR] Rowman Extras LaserDisc
+                        [DIR] Rowman Extras LaserDisc
+                            [DIR] Rowman Extras LaserDisc
+                                [DIR] AUDIO_TS
+                                [DIR] VIDEO_TS
+                    [DIR] Rowman Extras RotJ
+                        [DIR] Rowman Extras RotJ
+                            [DIR] Rowman Extras RotJ
+                                [DIR] AUDIO_TS
+                                [DIR] VIDEO_TS
+                [DIR] TR47ANH
+                    [DIR] TR47ANH
+                        [DIR] AUDIO_TS
+                        [DIR] DVD-Rom Folder
+                        [DIR] VIDEO_TS
+                [DIR] TR47ESB
+                    [DIR] TR47ESB
+                        [DIR] AUDIO_TS
+                        [DIR] DVD-Rom
+                            [DIR] Star Wars Scripts
+                                [DIR] Clones
+                                [DIR] Empire
+                                [DIR] Jedi
+                                [DIR] Phantom
+                                [DIR] Random Star Wars
+                                [DIR] Star Wars
+                                [DIR] THX-1138
+                        [DIR] VIDEO_TS
+                [DIR] TR47ROTJ
+                    [DIR] TR47ROTJ
+                        [DIR] AUDIO_TS
+                        [DIR] DVD-Rom
+                            [DIR] Blaksvn - DVD covers
+                        [DIR] VIDEO_TS
+            [DIR] TRILOGY AND EPISODE 1 LASER DISC SET
+                [DIR] TBDVBSWI
+                    [DIR] TBDVBSWI
+                        [DIR] AUDIO_TS
+                        [DIR] DVD_ROM
+                            [DIR] DVB version Samples
+                        [DIR] VIDEO_TS
+                [DIR] TBDVBSWIV
+                    [DIR] TBDVBSWIV
+                        [DIR] AUDIO_TS
+                        [DIR] DVD_ROM
+                            [DIR] DVB version Samples
+                        [DIR] VIDEO_TS
+                [DIR] TBDVBSWV
+                    [DIR] TBDVBSWV
+                        [DIR] AUDIO_TS
+                        [DIR] DVD_ROM
+                        [DIR] VIDEO_TS
+                [DIR] TBDVBSWVI
+                    [DIR] TBDVBSWVI
+                        [DIR] AUDIO_TS
+                        [DIR] DVD_ROM
+                            [DIR] DVB version Samples
+                        [DIR] VIDEO_TS
+            [DIR] The Definitive Collection, Laserdisc Fox Video 1993 DVD
+                [DIR] Return of the Jedi, Laserdisc (CAV), Fox Video USA, 1993 DVD Version
+                    [DIR] COWCLOPS V.2 - VI
+                        [DIR] VIDEO_TS
+                [DIR] Star Wars, Laserdisc (CAV), Fox Video USA, 1993 DVD Version
+                    [DIR] Cowclops v.2 - IV
+                        [DIR] VIDEO_TS
+                [DIR] The Empire Strikes Back, Laserdisc (CAV), Fox Video USA, 1993 DVD Version
+                    [DIR] COWCLOPS V.2 - V
+                        [DIR] VIDEO_TS
+        [DIR] TV
+            [DIR] Droids 1985
+                [DIR] DVD1
+                    [DIR] AUDIO_TS
+                    [DIR] VIDEO_TS
+                [DIR] DVD2
+                    [DIR] AUDIO_TS
+                    [DIR] VIDEO_TS
+                [DIR] DVD3
+                    [DIR] AUDIO_TS
+                    [DIR] VIDEO_TS
+                [DIR] Star.Wars.Droids.1985.reconstruction-retartedted
+                    [DIR] Star.Wars.Droids.1985.complete
+            [DIR] Ewoks Season 1
+                [DIR] AvP covers
+                [DIR] Star Wars Ewoks Season 1 DVD 1
+                    [DIR] Star Wars Ewoks Season 1 DVD 1
+                        [DIR] VIDEO_TS
+                [DIR] Star Wars Ewoks Season 1 DVD 2
+                    [DIR] Star Wars Ewoks Season 1 DVD 2
+                        [DIR] VIDEO_TS
+                [DIR] Star Wars Ewoks Season 1 DVD 3
+                    [DIR] Star Wars Ewoks Season 1 DVD 3
+                        [DIR] VIDEO_TS
+                [DIR] Star Wars Ewoks Season 1 DVD 4
+                    [DIR] Star Wars Ewoks Season 1 DVD 4
+                        [DIR] VIDEO_TS
+                [DIR] Star Wars Ewoks Season 1 DVD 5
+                    [DIR] Star Wars Ewoks Season 1 DVD 5
+                        [DIR] DVD_ROM
+                        [DIR] VIDEO_TS
+                [DIR] VideoCollector covers
+                [DIR] comics
+                [DIR] illustrated books
+                [DIR] trailers
+            [DIR] Ewoks Season 2
+                [DIR] Covers
+                [DIR] PDF
+                [DIR] Star Wars  - Ewoks Season 2 DVD 2
+                    [DIR] Star Wars Ewoks Season 2 DVD 2
+                        [DIR] VIDEO_TS
+                [DIR] Star Wars - Ewoks Season 2 DVD 1
+                    [DIR] Star Wars Ewoks Season 2 DVD 1
+                        [DIR] VIDEO_TS
+                [DIR] Star Wars - Ewoks Season 2 DVD 5
+                    [DIR] Star Wars Ewoks Season 2 DVD 5
+                        [DIR] DVD-ROM
+                        [DIR] VIDEO_TS
+                [DIR] Star Wars Ewoks Season 2 DVD 3
+                    [DIR] VIDEO_TS
+                [DIR] Star Wars Ewoks Season 2 DVD 4
+                    [DIR] VIDEO_TS
+            [DIR] Kenner Star Wars Commercials
+                [DIR] Kenner Star Wars Commercials
+                    [DIR] Kenner Star Wars Commercials
+                        [DIR] Artwork
+                        [DIR] DVD
+            [DIR] Pawn Stars S13E17 The Star Wars Vault 720p HDTV X264-DHD
+                [DIR] pawn.stars.s13e17.720p-dhd
+            [DIR] Star.Wars.Holiday.Special.Zion.Hybrid
+                [DIR] holiday special
+                    [DIR] AUDIO_TS
+                    [DIR] VIDEO_TS
+        [DIR] Web
+            [DIR] Star Wars - Episode VIII - The Last Jedi - Score Only Version
+    [DIR] Collections
+        [DIR] BLAK COLLECTION
+            [DIR] BLAK0012
+                [DIR] BLAK0012
+                    [DIR] BLAK0012
+                        [DIR] AUDIO_TS
+                        [DIR] VIDEO_TS
+            [DIR] BLAK0014
+                [DIR] BLAK0014
+                    [DIR] AUDIO_TS
+                    [DIR] VIDEO_TS
+            [DIR] BLAK0019
+            [DIR] BLAK0026
+            [DIR] BLAK0027
+            [DIR] BLAK0034
+            [DIR] BLAK0041_NTSC LASERDISC TRANSFERS DEMO DVD_BLACKSVNCOLLECTION
+                [DIR] BLAK0041 - OT Demo DVD
+                    [DIR] BLAK0041 - OT Demo DVD
+            [DIR] BLAK0055
+            [DIR] BLAK1138
+        [DIR] Babyhum Collection (bh01-bh18)
+            [DIR] bh001 - Clapperboard The Empire Strikes Back
+                [DIR] bh001 - Clapperboard The Empire Strikes Back
+                    [DIR] AUDIO_TS
+                    [DIR] DVD_ROM
+                    [DIR] VIDEO_TS
+            [DIR] bh002 - Horizon - How To Film The Impossible
+                [DIR] bh002 - Horizon - How To Film The Impossible
+            [DIR] bh004 - From Star Wars To Star Wars The Story Of ILM
+                [DIR] bh004 - From Star Wars To Star Wars The Story Of Industrial Light & Magic
+                    [DIR] BH004
+                        [DIR] AUDIO_TS
+                        [DIR] DVD_ROM
+                        [DIR] VIDEO_TS
+            [DIR] bh004 - The Story Of Industrial Light & Magic
+                [DIR] bh004 - From Star Wars To Star Wars The Story Of Industrial Light & Magic
+                    [DIR] BH004
+                        [DIR] AUDIO_TS
+                        [DIR] DVD_ROM
+                        [DIR] VIDEO_TS
+            [DIR] bh005 - The A To Z Of Star Wars Episode II Attack Of The Clones
+                [DIR] bh005
+                    [DIR] bh005 -
+                [DIR] bh005 - The A To Z Of Star Wars Episode II Attack Of The Clones
+                    [DIR] AUDIO_TS
+                    [DIR] DVD_ROM
+                    [DIR] VIDEO_TS
+            [DIR] bh006 - When Star Wars Ruled The World
+                [DIR] bh006 - When Star Wars Ruled The World
+                    [DIR] AUDIO_TS
+                    [DIR] DVD_ROM
+                    [DIR] VIDEO_TS
+            [DIR] bh007 - Star Wars Heroes & Villains
+                [DIR] bh007 - Star Wars Heroes & Villains
+                    [DIR] DVD_ROM
+                    [DIR] VIDEO_TS
+            [DIR] bh008 - Star Wars Feel The Force
+                [DIR] bh008 - Star Wars Feel The Force
+                    [DIR] AUDIO_TS
+                    [DIR] DVD_ROM
+                    [DIR] VIDEO_TS
+            [DIR] bh009 - Star Wars Trilogy Special Edition AudioVisual Press Kit
+                [DIR] bh009 - Star Wars Trilogy Special Edition AudioVisual Press Kit
+                    [DIR] AUDIO_TS
+                    [DIR] DVD_ROM
+                    [DIR] VIDEO_TS
+            [DIR] bh010 - The Official U.K. Fan Club BTS Of Star Wars E 1
+                [DIR] bh010
+                    [DIR] AUDIO_TS
+                    [DIR] DVD_ROM
+                        [DIR] Galactic Uplink
+                    [DIR] VIDEO_TS
+                [DIR] bh010 - The Official U.K. Fan Club Behind The Scenes Of Star Wars Episode I The Phantom Menace
+                    [DIR] AUDIO_TS
+                    [DIR] DVD_ROM
+                        [DIR] Galactic Uplink
+                    [DIR] VIDEO_TS
+            [DIR] bh011 - Omnibus Special Edition - George Lucas Flying Solo
+                [DIR] bh011 - Omnibus Special Edition - George Lucas Flying Solo
+                    [DIR] DVD_ROM
+                    [DIR] VIDEO_TS
+            [DIR] bh012 - A Long Time Ago... The Story Of Star Wars
+                [DIR] bh012
+                    [DIR] AUDIO_TS
+                    [DIR] DVD_ROM
+                    [DIR] VIDEO_TS
+            [DIR] bh012 - A Long Time Ago___ The Story Of Star Wars
+                [DIR] bh012
+                    [DIR] bh012
+                        [DIR] Covers
+            [DIR] bh013 - AFI Life Achievement Award- A Tribute To George Lucas
+                [DIR] bh013 - AFI Life Achievement Award- A Tribute To George Lucas
+                    [DIR] DVD_ROM
+                    [DIR] VIDEO_TS
+            [DIR] bh014 - Star Wars Episode 1 The Phantom Menace The UK Premiere
+                [DIR] bh014
+                    [DIR] bh014 - Star Wars Episode 1 The Phantom Menace The UK Premiere
+                        [DIR] Covers
+                [DIR] bh014 - Star Wars Episode 1 The Phantom Menace The UK Premiere
+                    [DIR] DVD_ROM
+                    [DIR] VIDEO_TS
+            [DIR] bh015 - Star Wars Ep2 Attack of the ClonesUK Premiere
+                [DIR] bh015
+                    [DIR] DVD_ROM
+                    [DIR] VIDEO_TS
+                    [DIR] bh015
+                        [DIR] Covers
+            [DIR] bh016 - Star Wars Episode 3 Revenge of the Sith The UK Premiere
+                [DIR] bh016
+                    [DIR] bh016 - Star Wars Episode 3 Revenge of the Sith The UK Premiere
+                        [DIR] Covers
+                [DIR] bh016 - Star Wars Episode 3 Revenge of the Sith The UK Premiere
+                    [DIR] DVD_ROM
+                    [DIR] VIDEO_TS
+            [DIR] bh017 - Star Wars The Magic and The Mystery
+                [DIR] bh017 - Star Wars The Magic and The Mystery
+                    [DIR] VIDEO_TS
+            [DIR] bh018 - Star Wars The Making of the Myth
+                [DIR] bh018 - Star Wars The Making of the Myth
+                    [DIR] DVD_ROM
+                    [DIR] VIDEO_TS
+        [DIR] THE TREADWELL COLLECTION
+            [DIR] SWG1
+                [DIR] SWG1
+            [DIR] SWG2
+            [DIR] SWG3
+            [DIR] TPMVHSNYC
+            [DIR] TWC073
+            [DIR] TWC127
+            [DIR] TWC176
+            [DIR] TWC197
+            [DIR] TWC217
+            [DIR] TWC222
+            [DIR] TWC223
+            [DIR] TWC224
+            [DIR] TWC240
+            [DIR] TWC288
+            [DIR] TWC298
+            [DIR] TWC299
+            [DIR] TWC300
+            [DIR] TWC301
+            [DIR] TWC316
+            [DIR] TWC320
+            [DIR] TWC322
+            [DIR] TWC323
+            [DIR] TWC326
+            [DIR] TWC327
+            [DIR] TWC328
+            [DIR] TWC337
+            [DIR] TWC338
+            [DIR] TWC339A
+            [DIR] TWC341A
+            [DIR] TWC342A
+    [DIR] Film Scans
+        [DIR] 4K77 - Star.Wars.4K77.2160p.UHD.no-DNR.35mm.x265-v1.0
+            [DIR] SRT
+        [DIR] 4K83 - Return.of.the.Jedi.4K83.2160p.UHD.35mm.x265-v1.0
+            [DIR] Bonus
+        [DIR] Puggo Krig
+            [DIR] DVD_ROM
+                [DIR] Posters
+            [DIR] VIDEO_TS
+        [DIR] Puggo_16mm
+        [DIR] ROTP
+            [DIR] VIDEO_TS
+        [DIR] Star Wars 16MM Prints [Star Wars & Empire Strikes Back]
+        [DIR] Star Wars 35MM Print [Trilogy]
+            [DIR] SSE
+                [DIR] SSE
+                    [DIR] SSE
+                        [DIR] Artwork
+                        [DIR] Documents
+                        [DIR] Extras
+    [DIR] Pre Releases - BOOTLEGS
+        [DIR] 01 - A New Hope
+            [DIR] #Audio Bootlegs - Theatre Captures
+                [DIR] Star Wars 70mm Audio BrianM.1
+                [DIR] Star Wars 70mm Audio Recording morgands1
+                [DIR] Star Wars Theater Recording - Scofield
+            [DIR] 77_ANH_BOOTLEG
+                [DIR] AUDIO_TS
+                [DIR] VIDEO_TS
+            [DIR] Pre.A.New.Hope.Bootleg-WS-BOOTLEG-Moth3r-XVID
+                [DIR] PreANH-WS-BOOTLEG-Moth3r-XVID
+                    [DIR] Pre.A.New.Hope.Bootleg.Telecine.WS.Moth3r.version.XVID - mthr
+            [DIR] Pre.A.New.Hope.Bootleg.Telecine.WS.Moth3r.version.XVID - mthr
+            [DIR] Star Wars 1977 35mm Soviet Dub Widescreen DVD5
+                [DIR] Star Wars 1977 35mm Soviet Dub Widescreen DVD5
+                    [DIR] Star Wars 1977 35mm Soviet Dub Widescreen DVD5
+                        [DIR] DVD_ROM
+                            [DIR] Star Wars 1977 35mm Soviet Dub Widescreen DVD5
+                        [DIR] VIDEO_TS
+            [DIR] Star Wars Pre-Episode IV - The VHS Bootleg -THE-STARKILLER
+                [DIR] SWIVBOOT
+                    [DIR] AUDIO_TS
+                    [DIR] CONTENT
+                        [DIR] Disc art and covers
+                        [DIR] The Starkiller's Guide
+                            [DIR] images
+                            [DIR] sounds
+                    [DIR] VIDEO_TS
+            [DIR] obi-have_kenobi_Star_Wars_vhs_pal_1977_bootleg_4x3_letterboxed
+        [DIR] 02 - The Empire Strikes Back
+            [DIR] AN EMPIRE SPIK BOOTLEG
+                [DIR] AESB
+            [DIR] Star Wars Empire Strikes Back - Theater Performance Edition
+                [DIR] ESB_TP
+                    [DIR] ESB_TP
+                        [DIR] AUDIO_TS
+                        [DIR] DVD-ROM
+                        [DIR] VIDEO_TS
+        [DIR] 03 - Return of the Jedi
+            [DIR] Return of the Jedi - Cinch presents the U-matic telecine bootleg of 35mm (1st gen)
+                [DIR] Files
+                    [DIR] 1983-ROTJ_jeditc-Images
+            [DIR] Star Wars  Return of the Jedi - Theater Performance Edition
+                [DIR] ROTJ_TP
+                    [DIR] ROTJ_TP
+                        [DIR] AUDIO_TS
+                        [DIR] DVD-ROM
+                        [DIR] VIDEO_TS
+        [DIR] 04 - The Phantom Menace
+            [DIR] Phantom Menace Z copy
+                [DIR] TPMZ1Disc
+                [DIR] TPMZ2Disc
+            [DIR] Star Wars A Phantom Menace - Theatrical [LDRIP]
+            [DIR] Star Wars A Phantom Menace NEW YORK VHS Video Home System Recording [NYC]
+                [DIR] TPMVHSNYC
+            [DIR] TPM Bootleg VHS_trillarydump
+        [DIR] 05 - Attack of the Clones
+            [DIR] Star.Wars.Episode.II.Attack.of.the.Clones.CinemaCopy
+                [DIR] Joined
+            [DIR] Star.Wars.Episode.II.Attack.of.the.Clones.SVCD-Centropy
+                [DIR] Star.Wars.Episode.II.Attack.of.the.Clones.SVCD-Centropy
+                    [DIR] Star.Wars.Episode.II.Attack.of.the.Clones.SVCD-Centropy
+        [DIR] 06 - Revenge of the Sith
+            [DIR] Star.Wars.Episode.3.Revenge.of.the.Sith.SVCD-TUN
+            [DIR] Star.Wars.Episode.3.Revenge.of.the.Sith.WP.DVDR-ViSA
+                [DIR] AUDIO_TS
+                [DIR] VIDEO_TS
+        [DIR] 07 - The Force Awakens
+            [DIR] Star Wars The Force Awakens 2015 HDTS XviD- INFERNO
+            [DIR] Star Wars The Force Awakens HD-CAM 2015 Geen NL Subs
+                [DIR] Star Wars The Force Awakens HD-CAM (2015) Geen NL Subs
+                    [DIR] Star Wars The Force Awakens HD-CAM (2015) Geen NL Subs
+                        [DIR] AUDIO_TS
+                        [DIR] VIDEO_TS
+            [DIR] Star Wars The Force Awakens x264 EngCam 1 watchable
+                [DIR] Star Wars The Force Awakens x264 [Eng][Cam] (1) watchable
+                    [DIR] Star Wars The Force Awakens x264 [Eng][Cam] (1) watchable
+            [DIR] Star_Wars_The_Force_Awakens_2015_HD-CAM_XViD_HQMic_AC3-CPG
+                [DIR] Star_Wars_The_Force_Awakens_2015_HD-CAM_XViD_HQMic_AC3-CPG
+        [DIR] 08 - Rogue One
+            [DIR] Rogue One A Star Wars Story 2016 HD-TS X264-CPG
+            [DIR] Rogue One A Star Wars Story 2016 HDCAM UnKnOwN
+            [DIR] Rogue One A Star Wars Story 2016 NEW HD-TS X264 AC3-CPG
+        [DIR] 09 - The Last Jedi
+            [DIR] Star Wars The Last Jedi 2017 E-SUB HC TS X264-MP3-Zi T
+            [DIR] Star Wars The Last Jedi 2017 FULL HDCAM
+            [DIR] Star Wars The Last Jedi 2017 HDCAM AC3 Russian Audio -Makintos13
+                [DIR] swa00074970034d81deba20fd1
+                    [DIR] Star.Wars.The.Last.Jedi.2017.HDCAM.AC3-Makintos13
+            [DIR] Star Wars The Last Jedi 2017 Movies HD TS x264 Clean Audio AAC New Source-rDX
+            [DIR] Star Wars The Last Jedi 2017 Movies HDCAM 720p x264 ChineseSub
+            [DIR] Star.Wars.The.Last.Jedi.2017.CAM.X264-BebeLeitinho.SpanishAudio
+        [DIR] 10 - Solo
+        [DIR] 11 - Rise of Skywalker
+            [DIR] Star Wars Episode IX The Rise Of Skywalker 720p CAM H264 AC3 ADS CUT BLURRED Will1869
+            [DIR] starwarshctc
+        [DIR] aa - The Clone Wars
+            [DIR] Star Wars The Clone Wars READ NFO TS XviD COALiTiON
+                [DIR] coa-swtcw-xvid
+            [DIR] Star.Wars.Las.Guerras.Clon.TS-SCREENER.XviD.MP3.2008.ES-AHASCR
+    [DIR] Re-Edits
+        [DIR] Despecialized Edition with Menus BluRays
+            [DIR] Empire Strikes Back BD 50
+                [DIR] The Empre Strikes Back Despecialized 2.0 BD50
+            [DIR] Empire Strikes Back BD25 Docs
+                [DIR] The Empire Strikes Back - Documentaries BD25
+            [DIR] RERIPS
+                [DIR] RETURN_OF_THE_JEDI_DESPECIALIZED
+                    [DIR] BDMV
+                        [DIR] AUXDATA
+                        [DIR] BACKUP
+                            [DIR] BDJO
+                            [DIR] CLIPINF
+                            [DIR] JAR
+                            [DIR] PLAYLIST
+                        [DIR] BDJO
+                        [DIR] CLIPINF
+                        [DIR] JAR
+                        [DIR] META
+                        [DIR] PLAYLIST
+                        [DIR] STREAM
+                    [DIR] CERTIFICATE
+                        [DIR] BACKUP
+                [DIR] ROTJ_TRILOGY_DOCUMENTARIES
+                    [DIR] BDMV
+                        [DIR] AUXDATA
+                        [DIR] BACKUP
+                            [DIR] BDJO
+                            [DIR] CLIPINF
+                            [DIR] JAR
+                            [DIR] PLAYLIST
+                        [DIR] BDJO
+                        [DIR] CLIPINF
+                        [DIR] JAR
+                        [DIR] META
+                        [DIR] PLAYLIST
+                        [DIR] STREAM
+                    [DIR] CERTIFICATE
+                        [DIR] BACKUP
+                [DIR] STAR_WARS_DESPECIALIZED_2.7_BD50
+                    [DIR] BDMV
+                        [DIR] AUXDATA
+                        [DIR] BACKUP
+                            [DIR] BDJO
+                            [DIR] CLIPINF
+                            [DIR] JAR
+                            [DIR] PLAYLIST
+                        [DIR] BDJO
+                        [DIR] CLIPINF
+                        [DIR] JAR
+                        [DIR] META
+                        [DIR] PLAYLIST
+                        [DIR] STREAM
+                    [DIR] CERTIFICATE
+                        [DIR] BACKUP
+                [DIR] THE_EMPRE_STRIKES_BACK_DESPECIAL
+                    [DIR] BDMV
+                        [DIR] AUXDATA
+                        [DIR] BACKUP
+                            [DIR] BDJO
+                            [DIR] CLIPINF
+                            [DIR] JAR
+                            [DIR] PLAYLIST
+                        [DIR] BDJO
+                        [DIR] CLIPINF
+                        [DIR] JAR
+                        [DIR] META
+                        [DIR] PLAYLIST
+                        [DIR] STREAM
+                    [DIR] CERTIFICATE
+                        [DIR] BACKUP
+            [DIR] Return Of The Jedi BD 50
+                [DIR] Return of the Jedi Despecialized BD50
+            [DIR] Return of the Jedi BD 50 Docs
+                [DIR] ROTJ & SW Trilogy Documentaries BD50
+            [DIR] Star Wars BD 25 Docs
+                [DIR] Star Wars Documentaries
+            [DIR] Star Wars BD 50 rars
+                [DIR] Star Wars Despecialized 2.7 BD50
+        [DIR] MySE
+            [DIR] MySE
+                [DIR] VIDEO_TS
+        [DIR] STAR_WARS_DESPECIALIZED_BD
+            [DIR] StarWars_Phildesfr_BD_set_PDF_(printable)
+                [DIR] StarWars_Phildesfr_BD_set_PDF_(printable)
+        [DIR] Star Wars 1997 Special Edition - A New Hope [HARMY]
+            [DIR] SW_97SE_HARMY
+                [DIR] BDMV
+                    [DIR] AUXDATA
+                    [DIR] BACKUP
+                        [DIR] BDJO
+                        [DIR] CLIPINF
+                        [DIR] JAR
+                        [DIR] PLAYLIST
+                    [DIR] BDJO
+                    [DIR] CLIPINF
+                    [DIR] JAR
+                    [DIR] META
+                    [DIR] PLAYLIST
+                    [DIR] STREAM
+                [DIR] CERTIFICATE
+                    [DIR] BACKUP
+        [DIR] Star Wars The Original Trilogy 1977-1983 Despecialized Editions 720p x264 AC3 5.1
+            [DIR] 01 - Star Wars (1977)
+            [DIR] 02 - The Empire Strikes Back (1980)
+            [DIR] 03 - Return of the Jedi (1983)
+            [DIR] COVERS
+            [DIR] Samples & Screenshots
+                [DIR] Samples
+                [DIR] Screenshots
+            [DIR] Subs
+                [DIR] Return of the Jedi (1983)
+                [DIR] Star Wars (1977)
+                [DIR] The Empire Strikes Back (1980)
+        [DIR] TPM_THEATRICAL_ADYWAN
+            [DIR] DVD_ROM
+            [DIR] JACKET_P
+            [DIR] VIDEO_TS
+    [DIR] Rips
+        [DIR] DVD
+            [DIR] 5 STAR BOOTLEG TRILOGY
+                [DIR] STAR WRS 97 TRILOGY 5 STAR ISO
+                    [DIR] SWSE97_Trilogy_5_Star-ISO-ANH
+                [DIR] STAR WRS 97 TRILOGY 5 STAR ISO2
+                    [DIR] SWSE97_Trilogy_5_Star-ISO-ESB
+                [DIR] STAR WRS 97 TRILOGY 5 STAR ISO3
+                    [DIR] SWSE97_Trilogy_5_Star-ISO-ROTJ
+            [DIR] Revenge of the Sith Screener
+            [DIR] SWSE97-Chinese-ROTJ
+                [DIR] ROTJ
+                    [DIR] DVD_ROM
+                    [DIR] VIDEO_TS
+            [DIR] TURKISH_SW
+        [DIR] VCD
+            [DIR] EP3_ROS_SVCD_SWE3RotStun
+                [DIR] SWE3RotStun
+                    [DIR] TUN-sith
+                        [DIR] tun-sith1
+                        [DIR] tun-sith2
+                        [DIR] tun-sith3
+            [DIR] Star_Wars_Trilogy-1997_SE-VCD_on_DVD
+                [DIR] DVD_ROM
+                    [DIR] raw_cover_scans_600dpi
+                [DIR] VIDEO_TS
+    [DIR] TV Releases
+        [DIR] Broadcasts
+            [DIR] A_New_Hope_1977_2004_HDTV_UNTOUCHED_SkyGermany_H264_1080i_DD_de_eng_DISCO_REMUX_FINAL
+            [DIR] Empire Strikes Back CENTRAL TV 1988
+            [DIR] Ewok movies broadcast versions
+            [DIR] Return of the Jedi Thames Premiere Boxing Day 1989
+            [DIR] STAR WARS - A New Hope 1983 Broadcast (HBO)
+            [DIR] Star Wars - ONTV Pay Per View September 25 1982
+            [DIR] Star Wars ABC TV Premiere June 1984
+            [DIR] Star Wars Thames Televison Premiere 1982
+            [DIR] Star Wars in Concert 2009 1080i HDTV DD5_1 MPEG2-CtrlHD
+                [DIR] Star Wars in Concert 2009 1080i HDTV DD5.1 MPEG2-CtrlHD
+        [DIR] Press - Featurettes - Premieres
+            [DIR] HDTV_Cap_DISCO__STAR_WARS__Featurettes
+                [DIR] Episode 1 The Phantom Menace
+                [DIR] Episode 2 Attack of the Clones
+                [DIR] Episode 3 Revenge of the Sith
+                [DIR] Episode 4 A New Hope
+                [DIR] Episode 5 The Empire Strikes Back
+                [DIR] Episode 6 Return of the Jedi
+                [DIR] Episode 7 The Force Awakens
+            [DIR] Sky Movies Special A Rogue One Story
+            [DIR] Star Wars 40th Anniversary Celebrations
+                [DIR] Bonus
+            [DIR] Star Wars The Force Awakens Sky Movies Special HDTV X264-C4TV
+                [DIR] star.wars.the.force.awakens.sky.movies.special.hdtv.x264-c4tv
+        [DIR] Un-aired
+[DIR] Related
+    [DIR] # Print & Books
+        [DIR] 256 Star Wars eBooks (epub and mobi)
+        [DIR] From a Certain Point of View
+            [DIR] Star Wars - From a Certain Point of View
+            [DIR] Star Wars - From a Certain Point of View- 40 Stories Celebrating 40 Years of Star Wars
+        [DIR] Scripts and other Documents
+        [DIR] Star Wars Insider Magazine
+        [DIR] StarWarsArchvies-Publications-2010
+    [DIR] #Audio Based
+        [DIR] Return of the Jedi LP Bonus Disc
+            [DIR] AVCHD
+            [DIR] BOOKLET
+            [DIR] FETTIPs BONUS
+                [DIR] FETTIP
+                [DIR] VARIOUS
+                    [DIR] AUDIO
+                    [DIR] FONTS
+                    [DIR] IMAGES
+                    [DIR] VIDEO
+            [DIR] JEDI LP AUDIO
+            [DIR] LP COVERS
+                [DIR] Blu-Ray
+                [DIR] DVD
+            [DIR] MP4 VIDEO
+                [DIR] Final Version (Large)
+                [DIR] Final Version (ipod)
+                [DIR] Vimeo (V1)
+            [DIR] PAINTINGS
+            [DIR] RADIO DRAMA
+                [DIR] (BONUS)
+                [DIR] (RADIO DRAMA)
+            [DIR] READ-A-LONG
+                [DIR] READ-A-LONG (1983)
+                [DIR] READ-A-LONG SE (1997)
+        [DIR] Star Wars Episode VII  The Force Awakens 2015 Soundtrack (Oscars Edition By John Will
+        [DIR] Star Wars Laser Disc Audio Archive
+            [DIR] Others
+                [DIR] 1980 - SPFX - The Empire Strikes Back - CLV - Japan (PILF-2080)
+                [DIR] 1983 - From Star Wars To Jedi - CLV - Japan (PILF-207004)
+                [DIR] 2000 - AOTC Preview - CLV - Japan (PILF-286001) - (From ANH SE)
+                [DIR] Finished Mixes (Synchronized to 2011 Blu Rays)
+                    [DIR] Documentaries
+            [DIR] The Phantom Menace
+                [DIR] 1999 - Japan - CLV (PILF-2830)
+                    [DIR] 5.1 Mix
+                    [DIR] Stereo Mix
+        [DIR] Star Wars Mix Tape
+        [DIR] Star Wars Original Soundtracks  1-6Reup
+            [DIR] Star Wars Original Soundtracks  1-6(Reup)
+                [DIR] Star Wars Original Soundtracks  1-6(Reup)
+                    [DIR] Star Wars Episode I The Phantom Menace
+                    [DIR] Star Wars Episode III_ Revenge Of The Sith
+                    [DIR] Star Wars Episode II_ Attack Of The Clon
+                    [DIR] Star Wars Episode IV_ A New Hope
+                    [DIR] Star Wars Episode VI_ Return Of The Jedi
+                    [DIR] Star Wars Episode V_ The Empire Strikes
+                    [DIR] Star Wars Trilogy (Bonus)
+        [DIR] Star Wars The Ultimate Soundtrack Collection-2015-10CD-GrindsMan
+        [DIR] Star Wars Theater Recording - Scofield
+        [DIR] Star Wars Trilogy Radio Drama
+            [DIR] STARWARSTheOriginalRadioDramaReturnOfTheJedi
+            [DIR] StarWarsEp1FreedomsWinter
+            [DIR] StarWarsRadio
+            [DIR] StarWarsTalesoftheJedi1_201608
+        [DIR] THE STORY OF THE EMPIRE STRIKES BACK - THE ADVENTURES OF LUKE SKYWALKER AUDIOPLAY
+            [DIR] TAoLSbMA
+                [DIR] TAoLSbMA
+        [DIR] The Audio Collection
+            [DIR] RANDOM BEATS - A Tremor in the Force
+            [DIR] Soundtrack - Star Wars - Christmas in the Stars
+            [DIR] Soundtrack - Star Wars - Classic Trilogy by the Skywalker Symphony Orchestra
+            [DIR] Soundtrack - Star Wars - Cocktails in the Cantina
+            [DIR] Soundtrack - Star Wars - Japanese Box Set
+                [DIR] Shadows Of The Empire Joel McNeely -
+                [DIR] The Star Wars Trilogy John Williams
+                [DIR] Unplugged The Trotter Trio
+        [DIR] The Story Of Star Wars OST
+    [DIR] #Image Based
+        [DIR] Promotion Stills and other Holiday Photos
+        [DIR] Star Wars Changes Comparisson
+            [DIR] A New Hope Special Edition Visual Comparisons
+            [DIR] Return of the Jedi Special Edition Visual Comparisons
+            [DIR] StarWars.com Official 2004 Changes - ANH
+            [DIR] StarWars.com Official 2004 Changes - ESB
+            [DIR] StarWars.com Official 2004 Changes - RotJ
+    [DIR] All Things Digital George Lucas Interview_D5_2007
+        [DIR] George Lucas Digital
+            [DIR] AUDIO_TS
+            [DIR] DVD_ROM
+            [DIR] VIDEO_TS
+    [DIR] Biography Channel Specials
+        [DIR] George Lucas- Biogrpahy Channel Creating An Empire_2001
+            [DIR] SF005
+                [DIR] SF005
+                    [DIR] AUDIO_TS
+                    [DIR] DVD_ROM
+                    [DIR] VIDEO_TS
+        [DIR] Jedi Knight1_Harrison Ford & Mark Hamill_1997
+            [DIR] SF006
+                [DIR] SF006
+                    [DIR] AUDIO_TS
+                    [DIR] DVD_ROM
+                    [DIR] VIDEO_TS
+        [DIR] Jedi Knight2_Carrie Fisher & Samuel L Jackson_2002
+            [DIR] SF007
+                [DIR] AUDIO_TS
+                [DIR] DVD_ROM
+                [DIR] VIDEO_TS
+    [DIR] Deleted Magic Revisited DVD_2009
+        [DIR] SW-DM-Revisited
+            [DIR] Star Wars Deleted Magic Revisited DVD
+                [DIR] AUDIO_TS
+                [DIR] DVD_ROM
+                [DIR] JACKET_P
+                [DIR] VIDEO_TS
+    [DIR] George_Lucas_Maker_Of_Films_1971
+        [DIR] George.Lucas.Maker.Of.Films.1971
+            [DIR] George.Lucas.Maker.Of.Film
+                [DIR] VIDEO_TS
+    [DIR] HDTV_Cap_DISCO_Featurettes__STAR_WARS__In_the_Life_of_Kenny_Bake
+    [DIR] STORYOFSW
+        [DIR] The Story of Star Wars - Story of Anakin and Luke
+    [DIR] THX 1138_Lucas Short Film_1967
+    [DIR] The Mythology of Star Wars_With George Lucas & Bill Moyers_1999
+[DIR] System Volume Information
+    [Permission Denied]: e:System Volume Information
+[DIR] Z_CHECK BEFORE DELETION
+    [DIR] #HOMELESS MATERIAL#
+    [DIR] EP1_TPM_Zbootlegversion
